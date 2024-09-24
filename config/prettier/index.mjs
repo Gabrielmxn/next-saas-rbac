@@ -15,6 +15,7 @@ const config = {
   trailingComma: 'es5',
   arrowParens: 'always',
   endOfLine: 'auto',
+  bracketSameLine: false,
   plugins: ['prettier-plugin-tailwindcss']
 }
 
